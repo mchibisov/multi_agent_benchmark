@@ -1,0 +1,6 @@
+{"id":"dev_001","question":"Сколько длится бесплатный пробный период?","reference_answer":"14 дней","answerable":true,"category":"subscription","relevant_document_ids":["subscriptions"]}
+{"id":"dev_002","question":"Сколько стоит тариф Professional?","reference_answer":"1990 рублей в месяц","answerable":true,"category":"subscription","relevant_document_ids":["subscriptions"]}
+{"id":"dev_003","question":"Какие банковские карты принимаются для оплаты?","reference_answer":"Visa, Mastercard и МИР","answerable":true,"category":"payments","relevant_document_ids":["payments"]}
+{"id":"dev_004","question":"Можно ли оплатить подписку через PayPal?","reference_answer":null,"answerable":false,"category":"payments","relevant_document_ids":[]}
+{"id":"dev_005","question":"Есть ли мобильное приложение для Android?","reference_answer":null,"answerable":false,"category":"other","relevant_document_ids":[]}
+{"id":"dev_006","question":"Можно ли подключить к аккаунту пять пользователей?","reference_answer":null,"answerable":false,"category":"other","relevant_document_ids":[]}
