@@ -1,0 +1,11 @@
+mistralai
+langchain
+langchain-mistralai
+langchain-community 
+langchain-text-splitters
+langgraph
+faiss-cpu
+sentence-transformers
+numpy
+python-dotenv
+pydantic
