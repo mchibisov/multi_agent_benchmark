@@ -9,3 +9,4 @@ sentence-transformers
 numpy
 python-dotenv
 pydantic
+langchain-huggingface
