@@ -1,0 +1,24 @@
+{"id":"test_001","question":"Нужно ли добавлять банковскую карту для начала пробного периода?","reference_answer":"Да, для активации пробного периода необходимо добавить банковскую карту.","answerable":true,"category":"subscription","relevant_document_ids":["subscriptions"]}
+{"id":"test_002","question":"Какие возможности доступны во время пробного периода?","reference_answer":"Все функции тарифа Standard.","answerable":true,"category":"subscription","relevant_document_ids":["subscriptions"]}
+{"id":"test_003","question":"Что произойдёт после окончания пробного периода?","reference_answer":"Автоматически начнётся платная подписка Standard.","answerable":true,"category":"subscription","relevant_document_ids":["subscriptions"]}
+{"id":"test_004","question":"В какой валюте обрабатываются платежи?","reference_answer":"В рублях.","answerable":true,"category":"payments","relevant_document_ids":["payments"]}
+{"id":"test_005","question":"Что произойдёт после двух неудачных попыток списания?","reference_answer":"Подписка будет приостановлена.","answerable":true,"category":"payments","relevant_document_ids":["payments"]}
+{"id":"test_006","question":"Сколько времени рассматривается заявка на возврат?","reference_answer":"Пять рабочих дней.","answerable":true,"category":"refunds","relevant_document_ids":["refunds"]}
+{"id":"test_007","question":"Будет ли списана оплата, если отменить пробный период до его окончания?","reference_answer":"Нет, оплата не списывается.","answerable":true,"category":"subscription","relevant_document_ids":["subscriptions"]}
+{"id":"test_008","question":"Сколько раз один пользователь может активировать пробный период?","reference_answer":"Только один раз.","answerable":true,"category":"subscription","relevant_document_ids":["subscriptions"]}
+{"id":"test_009","question":"Когда начинает действовать новый тариф после его изменения?","reference_answer":"Сразу после подтверждения изменения.","answerable":true,"category":"subscription","relevant_document_ids":["subscriptions"]}
+{"id":"test_010","question":"Сколько активных банковских карт можно хранить в одном аккаунте?","reference_answer":"Одну активную банковскую карту.","answerable":true,"category":"payments","relevant_document_ids":["payments"]}
+{"id":"test_011","question":"Куда отправляется чек после успешной оплаты?","reference_answer":"На электронную почту пользователя.","answerable":true,"category":"payments","relevant_document_ids":["payments"]}
+{"id":"test_012","question":"Сколько времени может занять зачисление одобренного возврата?","reference_answer":"До десяти рабочих дней.","answerable":true,"category":"refunds","relevant_document_ids":["refunds"]}
+{"id":"test_013","question":"Можно ли приостановить пробный период и продолжить его позже?","reference_answer":null,"answerable":false,"category":"subscription","relevant_document_ids":[]}
+{"id":"test_014","question":"Предоставляется ли скидка студентам?","reference_answer":null,"answerable":false,"category":"subscription","relevant_document_ids":[]}
+{"id":"test_015","question":"Есть ли годовой тариф со скидкой?","reference_answer":null,"answerable":false,"category":"subscription","relevant_document_ids":[]}
+{"id":"test_016","question":"Какой объём облачного хранилища входит в тариф Standard?","reference_answer":null,"answerable":false,"category":"subscription","relevant_document_ids":[]}
+{"id":"test_017","question":"Можно ли использовать промокод при оплате?","reference_answer":null,"answerable":false,"category":"payments","relevant_document_ids":[]}
+{"id":"test_018","question":"Какой банк обрабатывает платежи?","reference_answer":null,"answerable":false,"category":"payments","relevant_document_ids":[]}
+{"id":"test_019","question":"Можно ли скачать чек в формате PDF?","reference_answer":null,"answerable":false,"category":"payments","relevant_document_ids":[]}
+{"id":"test_020","question":"Включён ли налог в указанную стоимость тарифов?","reference_answer":null,"answerable":false,"category":"payments","relevant_document_ids":[]}
+{"id":"test_021","question":"Можно ли отслеживать статус возврата в личном кабинете?","reference_answer":null,"answerable":false,"category":"refunds","relevant_document_ids":[]}
+{"id":"test_022","question":"Взимается ли комиссия за оформление возврата?","reference_answer":null,"answerable":false,"category":"refunds","relevant_document_ids":[]}
+{"id":"test_023","question":"Работает ли служба возвратов по выходным?","reference_answer":null,"answerable":false,"category":"refunds","relevant_document_ids":[]}
+{"id":"test_024","question":"Есть ли мобильное приложение для iOS?","reference_answer":null,"answerable":false,"category":"other","relevant_document_ids":[]}
